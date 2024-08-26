@@ -15691,16 +15691,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.11.3",
+            "version": "1.11.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "e64220a05c1209fc856d58e789c3b7a32c0bb9a5"
+                "reference": "707c2aed5d8d0075666e673a5e71440c1d01a5a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/e64220a05c1209fc856d58e789c3b7a32c0bb9a5",
-                "reference": "e64220a05c1209fc856d58e789c3b7a32c0bb9a5",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/707c2aed5d8d0075666e673a5e71440c1d01a5a3",
+                "reference": "707c2aed5d8d0075666e673a5e71440c1d01a5a3",
                 "shasum": ""
             },
             "require": {
@@ -15745,25 +15745,25 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-05-31T13:53:37+00:00"
+            "time": "2024-08-19T14:37:29+00:00"
         },
         {
             "name": "phpstan/phpstan-doctrine",
-            "version": "1.4.1",
+            "version": "1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan-doctrine.git",
-                "reference": "a223e357c5f153b446b8a5da57dbc1132eb7a88d"
+                "reference": "4d17bed8a33aa8220c1f2a21a6b14fcdb0e5b02c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan-doctrine/zipball/a223e357c5f153b446b8a5da57dbc1132eb7a88d",
-                "reference": "a223e357c5f153b446b8a5da57dbc1132eb7a88d",
+                "url": "https://api.github.com/repos/phpstan/phpstan-doctrine/zipball/4d17bed8a33aa8220c1f2a21a6b14fcdb0e5b02c",
+                "reference": "4d17bed8a33aa8220c1f2a21a6b14fcdb0e5b02c",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2 || ^8.0",
-                "phpstan/phpstan": "^1.11"
+                "phpstan/phpstan": "^1.11.7"
             },
             "conflict": {
                 "doctrine/collections": "<1.0",
@@ -15815,9 +15815,9 @@
             "description": "Doctrine extensions for PHPStan",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan-doctrine/issues",
-                "source": "https://github.com/phpstan/phpstan-doctrine/tree/1.4.1"
+                "source": "https://github.com/phpstan/phpstan-doctrine/tree/1.5.2"
             },
-            "time": "2024-05-28T15:37:29+00:00"
+            "time": "2024-08-23T11:07:15+00:00"
         },
         {
             "name": "phpstan/phpstan-webmozart-assert",
